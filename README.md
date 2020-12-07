@@ -8,7 +8,7 @@ GUI编程一开始考虑使用熟悉的Vue等前端框架做，想了想也没�
 在课程作业里写了个小彩蛋嘻嘻。
 
 ## 运行
-1. 使用jupyter notebook或者jupyter lab打开easygui.ipynb，自上而下运行即可。
+1. 使用jupyter notebook或者jupyter lab打开easygui.ipynb，自上而下运行即可。推荐使用此种方式查看代码，为了方便我使用jupyter lab编写的代码，后来发现代码量多了之后jupyter不如vscode、pycharm等方便，硬着头皮继续用下去了。
 2. 下载easygui.py到本地，python easygui.py运行
 3. 打开package/dist/easygui/easygui.exe直接运行。此种方式不依赖于环境，因为将py文件及依赖都打包此文件，故package文件会比较大。
 
