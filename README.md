@@ -17,6 +17,11 @@ GUI编程一开始考虑使用熟悉的Vue等前端框架做，想了想也没�
 ![image](https://github.com/dong-8080/Simplex-methods/blob/main/image/image2.png)
 ![image](https://github.com/dong-8080/Simplex-methods/blob/main/image/image3.png)
 
+## 注意
+* 单纯形法只能求解最小值问题，交作业表示表示就好了，最大值可以转化成最小值。
+* 输入时必须按照给定格式输入，系统健壮性基本为0
+* 交作业时请改一下界面，不要和我的一样
+
 ## 收获
 用了Tkinter编写GUI界面，虽然会的不是很多但也有了一些头绪。实现单纯形法的过程中，调用了很多numpy的函数，用python进行数值操作也越来越熟练了，本次作业的最大收获吧。还有，写了2000多字的项目说明，我tm真是个天才，hh。
 
